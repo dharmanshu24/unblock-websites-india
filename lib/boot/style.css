@@ -47,7 +47,13 @@ code {
   overflow: auto;
   position: fixed;
   top: 0;
+  visibility: hidden;
+  display: none;
   width: 240px;
+}
+#sidebar this{
+  display: none;
+  visibility: hidden;
 }
 
 #sidebar h1 {
